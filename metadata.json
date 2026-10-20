@@ -1,0 +1,6 @@
+{
+  "name": "Contador Ganadero Pro",
+  "description": "Contador de hacienda y ganado para Android con registro de novedades, observaciones y exportación directa a Excel.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
