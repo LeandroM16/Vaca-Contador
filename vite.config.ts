@@ -5,6 +5,7 @@ import {defineConfig} from 'vite';
 
 export default defineConfig(() => {
   return {
+    base: '/Vaca-Contador/', // Permite a GitHub Pages ubicar los archivos en el subdirectorio del repositorio
     plugins: [react(), tailwindcss()],
     resolve: {
       alias: {
